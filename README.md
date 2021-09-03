@@ -18,7 +18,12 @@ Collection of personal bookmarks. Live document.
 
 ## Ruby
 
+* [Official Ruby FAQ](https://www.ruby-lang.org/en/documentation/faq/)
+* [Practicing Ruby](https://practicingruby.com/)
+* [TestFirst.org](http://testfirst.org/)
+* [Ruby Monk metaprograming](https://rubymonk.com/)
 * [Ruby api](https://rubyapi.org/)
+* [The Ruby Style Guide](https://github.com/rubocop/ruby-style-guide)
 * [Railway Oriented programming in Ruby: do notation vs dry-transaction](https://www.morozov.is/2018/05/27/do-notation-ruby.html)
 * [Functional Ruby with dry-monads](https://humanreadablemag.com/issues/0/articles/functional-ruby-with-dry-monads/)
 
