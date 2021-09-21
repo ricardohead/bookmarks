@@ -53,6 +53,10 @@ Collection of personal bookmarks. Live document.
 * [Todo.txt Practices](https://joehallenbeck.com/todo-txt-practices/)
 * [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/)
 
+## Books
+
+* [HackerNews Readings](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
+
 ## News
 
 * [Historic First Images of a Black Hole Show Einstein Was Right (Again)](https://www.space.com/black-hole-event-horizon-images-einstein.html)
