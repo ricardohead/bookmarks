@@ -30,6 +30,7 @@ Collection of personal bookmarks. Live document.
 ## Ruby on Rails
 
 * [Rails is omakase](https://dhh.dk/2012/rails-is-omakase.html)
+* [Under Deconstruction: The State of Shopify’s Monolith](https://shopify.engineering/shopify-monolith)
 
 ## JWT
 
