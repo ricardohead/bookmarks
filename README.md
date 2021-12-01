@@ -1,6 +1,11 @@
 # Bookmarks
 Collection of personal bookmarks. Live document.
 
+## Learn
+
+* [Spaced Repetition](https://www.executeprogram.com/spaced-repetition)
+* [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules)
+
 ## Git
 
 * [Git Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html#loc=remote_repo;)
@@ -32,6 +37,10 @@ Collection of personal bookmarks. Live document.
 * [Rails is omakase](https://dhh.dk/2012/rails-is-omakase.html)
 * [Under Deconstruction: The State of Shopify’s Monolith](https://shopify.engineering/shopify-monolith)
 
+## Javascript
+
+* [Executed program](https://www.executeprogram.com)
+
 ## JWT
 
 * [Learn how to use JSON Web Tokens (JWT) for Authentication](https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md)
@@ -61,3 +70,7 @@ Collection of personal bookmarks. Live document.
 ## News
 
 * [Historic First Images of a Black Hole Show Einstein Was Right (Again)](https://www.space.com/black-hole-event-horizon-images-einstein.html)
+
+## Random
+
+* [Wanikani](https://www.wanikani.com)
