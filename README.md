@@ -6,6 +6,9 @@ Collection of personal bookmarks. Live document.
 * [Spaced Repetition](https://www.executeprogram.com/spaced-repetition)
 * [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules)
 
+## OOP
+* [Alan Kays Definition Of Object Oriented](https://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented)
+
 ## Git
 
 * [Git Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html#loc=remote_repo;)
