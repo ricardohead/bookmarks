@@ -34,12 +34,16 @@ Collection of personal bookmarks. Live document.
 * [The Ruby Style Guide](https://github.com/rubocop/ruby-style-guide)
 * [Railway Oriented programming in Ruby: do notation vs dry-transaction](https://www.morozov.is/2018/05/27/do-notation-ruby.html)
 * [Functional Ruby with dry-monads](https://humanreadablemag.com/issues/0/articles/functional-ruby-with-dry-monads/)
+* [Real World Ruby Apps](https://github.com/jeromedalbert/real-world-ruby-apps) _...Real World Ruby apps and their open source codebases for developers to learn from (github reop)_
+* [Upcase by thoughtbot](https://thoughtbot.com/upcase) _...Learn Clean Code, Patterns, Ruby_
+* [Ruby Best Practices List](https://github.com/hexdevs/ruby-best-practices-list) _...List of well-written Ruby codebases and resources (github reop)_
 
 ## Ruby on Rails
 
 * [Rails is omakase](https://dhh.dk/2012/rails-is-omakase.html)
 * [Under Deconstruction: The State of Shopify’s Monolith](https://shopify.engineering/shopify-monolith)
 * [Production Rails](https://github.com/ankane/production_rails)
+* [Real World Rails](https://github.com/eliotsykes/real-world-rails) _...Real World Rails applications and their open source codebases for developers to learn from (github repo)_
 
 ## Javascript
 
