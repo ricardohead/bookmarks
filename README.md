@@ -61,6 +61,12 @@ Collection of personal bookmarks. Live document.
 * [How FZF and ripgrep improved my workflow](https://sidneyliebrand.io/blog/how-fzf-and-ripgrep-improved-my-workflow)
 * [Tmux and Vim — even better together](https://www.bugsnag.com/blog/tmux-and-vim)
 
+## DevTools
+
+* [Denigma](https://denigma.app) _...Denigma explains code in understandable english_
+* [Regexr](https://regexr.com) _...Explain Regexp_
+* [Mintlify](https://www.mintlify.com) _...Mintlify generate documentation for you_
+
 ## Startups
 
 * [Ramen profitable](http://paulgraham.com/ramenprofitable.html)
