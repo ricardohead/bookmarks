@@ -37,6 +37,7 @@ Collection of personal bookmarks. Live document.
 * [Real World Ruby Apps](https://github.com/jeromedalbert/real-world-ruby-apps) _...Real World Ruby apps and their open source codebases for developers to learn from (github reop)_
 * [Upcase by thoughtbot](https://thoughtbot.com/upcase) _...Learn Clean Code, Patterns, Ruby_
 * [Ruby Best Practices List](https://github.com/hexdevs/ruby-best-practices-list) _...List of well-written Ruby codebases and resources (github reop)_
+* [hanamimastery](https://hanamimastery.com)
 
 ## Ruby on Rails
 
@@ -44,6 +45,10 @@ Collection of personal bookmarks. Live document.
 * [Under Deconstruction: The State of Shopify’s Monolith](https://shopify.engineering/shopify-monolith)
 * [Production Rails](https://github.com/ankane/production_rails)
 * [Real World Rails](https://github.com/eliotsykes/real-world-rails) _...Real World Rails applications and their open source codebases for developers to learn from (github repo)_
+
+## Testing
+
+* [Test Doubles - Fakes, Mocks and Stubsruby](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
 
 ## Javascript
 
