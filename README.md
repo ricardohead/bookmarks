@@ -23,6 +23,7 @@ Collection of personal bookmarks. Live document.
 
 * [Vim help files](https://vimhelp.org/)
 * [Vim Creep](https://rudism.com/vim-creep/)
+* [Awesome Rails](https://github.com/gramantin/awesome-rails)
 
 ## Ruby
 
