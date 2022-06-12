@@ -33,7 +33,6 @@ Collection of personal bookmarks. Live document.
 
 * [Vim help files](https://vimhelp.org/)
 * [Vim Creep](https://rudism.com/vim-creep/)
-* [Awesome Rails](https://github.com/gramantin/awesome-rails)
 
 ## Ruby
 
@@ -49,6 +48,7 @@ Collection of personal bookmarks. Live document.
 * [Upcase by thoughtbot](https://thoughtbot.com/upcase) _...Learn Clean Code, Patterns, Ruby_
 * [Ruby Best Practices List](https://github.com/hexdevs/ruby-best-practices-list) _...List of well-written Ruby codebases and resources (github reop)_
 * [hanamimastery](https://hanamimastery.com)
+* [I am a puts debuggerer](https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html)
 
 ## Ruby on Rails
 
@@ -56,6 +56,7 @@ Collection of personal bookmarks. Live document.
 * [Under Deconstruction: The State of Shopify’s Monolith](https://shopify.engineering/shopify-monolith)
 * [Production Rails](https://github.com/ankane/production_rails)
 * [Real World Rails](https://github.com/eliotsykes/real-world-rails) _...Real World Rails applications and their open source codebases for developers to learn from (github repo)_
+* [Awesome Rails](https://github.com/gramantin/awesome-rails)
 
 ## Testing
 
