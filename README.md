@@ -6,8 +6,18 @@ Collection of personal bookmarks. Live document.
 * [Spaced Repetition](https://www.executeprogram.com/spaced-repetition)
 * [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules)
 
+## CS
+* [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
+
 ## OOP
 * [Alan Kays Definition Of Object Oriented](https://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented)
+
+## Domain Model
+* [AnemicDomainModel](https://martinfowler.com/bliki/AnemicDomainModel.html)
+* [Enough with the service objects already](https://avdi.codes/service-objects/)
+
+## Software Design and Architecture
+* [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture)
 
 ## Git
 
