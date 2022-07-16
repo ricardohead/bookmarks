@@ -110,3 +110,10 @@ Collection of personal bookmarks. Live document.
 
 * [Wanikani](https://www.wanikani.com)
 * [MoviesWorthYourTime](https://www.youtube.com/user/MoviesWorthYourTime/videos)
+* [Yamauchi](https://y-n10.com/)
+
+## Mac Setup
+
+* [Ruby on Mac](https://www.rubyonmac.dev/)
+* [driesvints/dotfiles](https://github.com/driesvints/dotfiles)
+* [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
