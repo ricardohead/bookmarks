@@ -28,6 +28,7 @@ Collection of personal bookmarks. Live document.
 * [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 * [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
 * [Awesome Git](https://github.com/dictcp/awesome-git)
+* [How does git merge work](https://www.quora.com/How-does-Git-merge-work)
 
 ## Vim
 
