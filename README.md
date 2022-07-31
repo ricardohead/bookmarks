@@ -29,6 +29,7 @@ Collection of personal bookmarks. Live document.
 * [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
 * [Awesome Git](https://github.com/dictcp/awesome-git)
 * [How does git merge work](https://www.quora.com/How-does-Git-merge-work)
+* [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) :gem:
 
 ## Vim
 
