@@ -59,6 +59,9 @@ Collection of personal bookmarks. Live document.
 * [Production Rails](https://github.com/ankane/production_rails)
 * [Real World Rails](https://github.com/eliotsykes/real-world-rails) _...Real World Rails applications and their open source codebases for developers to learn from (github repo)_
 * [Awesome Rails](https://github.com/gramantin/awesome-rails)
+* [The Lifecycle of a Request](https://blog.skylight.io/the-lifecycle-of-a-request/)
+* [The Lifecycle of a Response](https://blog.skylight.io/the-lifecycle-of-a-response/)
+* [Rails request cycle explained](https://paweldabrowski.com/articles/rails-request-cycle)
 
 ## Testing
 
