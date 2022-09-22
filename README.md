@@ -122,3 +122,48 @@ Collection of personal bookmarks. Live document.
 * [Ruby on Mac](https://www.rubyonmac.dev/)
 * [driesvints/dotfiles](https://github.com/driesvints/dotfiles)
 * [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
+
+## Awesome Lists
+
+* [Awesome](https://github.com/sindresorhus/awesome) _...Awesome lists about all kinds of interesting topics_
+* [Awesome API](https://github.com/Kikobeats/awesome-api) _...A curated list of awesome resources for design and implement RESTful APIs_
+* [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability) _...The Patterns of Scalable, Reliable, and Performant Large-Scale Systems_
+* [Papers we love](https://github.com/papers-we-love/papers-we-love) _...Papers from the computer science community to read and discuss_
+  * [Little Manual of API Design](https://github.com/papers-we-love/papers-we-love/tree/master/api_design)
+* [Awesome talks](https://github.com/JanVanRyswyck/awesome-talks) _...Awesome online talks and screencasts_
+* [Awesome Roadmaps](https://github.com/liuchong/awesome-roadmaps) _...A curated list of roadmaps_
+  * [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  * [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap)
+* [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) _...A curated awesome list of lists of interview questions_
+  * [Ruby](https://github.com/DopplerHQ/awesome-interview-questions#ruby)
+* [Awesome Code Review](https://github.com/joho/awesome-code-review) _...An "Awesome" list of code review resources_
+* [Awesome REST](https://github.com/marmelab/awesome-rest) _...resources about RESTful API architecture, development, test, and performance_
+* [Awesome Answers](https://github.com/cyberglot/awesome-answers) _...Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc_
+* [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) _...About
+A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more_
+* [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) _...A list of awesome beginners-friendly projects_
+* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) _...Manually curated collection of resources for frontend web developers_
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) _...A curated list of awesome remote jobs and resources_
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) _...A curated list of awesome Deep Learning tutorials, projects and communities_
+* [Awesome Digital Nomads](https://github.com/cbovis/awesome-digital-nomads) _...A curated list of awesome resources for Digital Nomads_
+* [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) _...Falsehoods Programmers Believe in_
+  * [Software engineering](https://github.com/kdeldycke/awesome-falsehood#software-engineering)
+* [Awesome Microservices](https://github.com/mfornos/awesome-microservices) _...A curated list of Microservice Architecture related principles and technologies_
+* [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) _...Books everyone should read_
+* [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams) _...Awesome Developers, Streaming_
+* [Software Architecture Books](https://github.com/mhadidg/software-architecture-books) _...A comprehensive list of books on Software Architecture_
+* [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) _...A curated list of Chaos Engineering resources_
+
+## Hiring
+* [take-home-test](https://github.com/topics/take-home-test)
+* [heywelcome codechallenge](https://github.com/pineapplehq/hiring-exercises) _...About Welcome Hiring Process & Exercises - heywelcome.com_
+* [Backend Challenges](https://github.com/CollabCodeTech/backend-challenges) _...A public list of open-source challenges from jobs around the world_
+* [Geek trust](https://www.geektrust.com/)
+
+## AI
+
+### Paraphrasing
+
+* [Quillbot](https://quillbot.com/) _...QuillBot's AI-powered paraphrasing tool will enhance your writing._
+* [Wordtune](https://www.wordtune.com/) _..._
+* [HyperWrite](https://hyperwriteai.com/) _..._
