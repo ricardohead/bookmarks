@@ -5,6 +5,7 @@ Collection of personal bookmarks. Live document.
 
 * [Spaced Repetition](https://www.executeprogram.com/spaced-repetition)
 * [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules)
+* [How to remember anything forever](https://ncase.me/remember/) :gem:
 
 ## CS
 * [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
