@@ -75,6 +75,10 @@ Collection of personal bookmarks. Live document.
 
 * [Learn how to use JSON Web Tokens (JWT) for Authentication](https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md)
 
+## AI
+
+* [SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
+
 ## Web
 
 * [Middleware](https://www.ibm.com/cloud/learn/middleware)
