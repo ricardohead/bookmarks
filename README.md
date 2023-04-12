@@ -176,3 +176,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 * [Quillbot](https://quillbot.com/) _...QuillBot's AI-powered paraphrasing tool will enhance your writing._
 * [Wordtune](https://www.wordtune.com/) _..._
 * [HyperWrite](https://hyperwriteai.com/) _..._
+
+## Inspiration
+
+* [Steve Jobs Archive](https://stevejobsarchive.com/)
