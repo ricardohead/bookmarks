@@ -92,6 +92,10 @@ Collection of personal bookmarks. Live document.
 * [How FZF and ripgrep improved my workflow](https://sidneyliebrand.io/blog/how-fzf-and-ripgrep-improved-my-workflow)
 * [Tmux and Vim — even better together](https://www.bugsnag.com/blog/tmux-and-vim)
 
+## Operating Systems
+
+* [Operating Systems: Three Easy Pieces - Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
 ## DevTools
 
 * [Denigma](https://denigma.app) _...Denigma explains code in understandable english_
