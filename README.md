@@ -6,6 +6,7 @@ Collection of personal bookmarks. Live document.
 * [Spaced Repetition](https://www.executeprogram.com/spaced-repetition)
 * [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules)
 * [How to remember anything forever](https://ncase.me/remember/) :gem:
+* [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 
 ## CS
 * [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
@@ -16,6 +17,7 @@ Collection of personal bookmarks. Live document.
 ## Domain Model
 * [AnemicDomainModel](https://martinfowler.com/bliki/AnemicDomainModel.html)
 * [Enough with the service objects already](https://avdi.codes/service-objects/)
+* [Data, context and interaction](https://en.wikipedia.org/wiki/Data,_context_and_interaction) _...paradigm used in computer software to program systems of communicating objects_
 
 ## Software Design and Architecture
 * [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture)
@@ -31,6 +33,9 @@ Collection of personal bookmarks. Live document.
 * [Awesome Git](https://github.com/dictcp/awesome-git)
 * [How does git merge work](https://www.quora.com/How-does-Git-merge-work)
 * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) :gem:
+* [git - ours & theirs](https://nitaym.github.io/ourstheirs/)
+* [Workarounds to Git worktree using bare repository](https://morgan.cugerone.com/blog/workarounds-to-git-worktree-using-bare-repository-and-cannot-fetch-remote-branches/)
+* [Sliced bread: git-worktree and bare repo](https://blog.cryptomilk.org/2023/02/10/sliced-bread-git-worktree-and-bare-repo/)
 
 ## Vim
 
@@ -63,14 +68,29 @@ Collection of personal bookmarks. Live document.
 * [The Lifecycle of a Request](https://blog.skylight.io/the-lifecycle-of-a-request/)
 * [The Lifecycle of a Response](https://blog.skylight.io/the-lifecycle-of-a-response/)
 * [Rails request cycle explained](https://paweldabrowski.com/articles/rails-request-cycle)
+* [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
+* [Helping devs understand concerns faster](https://discuss.rubyonrails.org/t/helping-devs-understand-concerns-faster/74619/1)
+* [Vanilla Rails is plenty](https://dev.37signals.com/vanilla-rails-is-plenty/) :gem:
+* [Good concerns](https://dev.37signals.com/good-concerns/)
+* [Form validations with HTML5 and modern Rails](https://www.jorgemanrubia.com/2019/02/16/form-validations-with-html5-and-modern-rails/)
+* [Encapsulation and Global State in Rails](https://thoughtbot.com/upcase/videos/encapsulation-and-global-state-in-rails)
 
-## Testing
+## Hotwire
+* [Rails 7: Stimulus JS Basics](https://jasonfleetwoodboldt.com/courses/rails-7-crash-course/rails-7-stimulus-js-basics-with-importmap-rails/)
+* [Turbo Rails Tutorial](https://www.hotrails.dev/turbo-rails)
 
-* [Test Doubles - Fakes, Mocks and Stubsruby](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
 
 ## Javascript
 
 * [Executed program](https://www.executeprogram.com)
+* [JavaScript DOM] [https://www.javascripttutorial.net/javascript-dom/] _...how to manipulate DOM elements effectively._
+
+## CSS
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+## Testing
+
+* [Test Doubles - Fakes, Mocks and Stubsruby](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
 
 ## JWT
 
@@ -102,6 +122,9 @@ Collection of personal bookmarks. Live document.
 * [Regexr](https://regexr.com) _...Explain Regexp_
 * [Mintlify](https://www.mintlify.com) _...Mintlify generate documentation for you_
 
+## Repos
+* [Scientist](https://github.com/github/scientist) _...A Ruby library for carefully refactoring critical paths_
+
 ## Startups
 
 * [Ramen profitable](http://paulgraham.com/ramenprofitable.html)
@@ -129,6 +152,7 @@ Collection of personal bookmarks. Live document.
 * [Wanikani](https://www.wanikani.com)
 * [MoviesWorthYourTime](https://www.youtube.com/user/MoviesWorthYourTime/videos)
 * [Yamauchi](https://y-n10.com/)
+* [My 37 Favorite Documentaries](https://tim.blog/2022/04/13/tim-ferriss-favorite-documentaries/)
 
 ## Mac Setup
 
