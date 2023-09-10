@@ -18,6 +18,8 @@ Collection of personal bookmarks. Live document.
 * [AnemicDomainModel](https://martinfowler.com/bliki/AnemicDomainModel.html)
 * [Enough with the service objects already](https://avdi.codes/service-objects/)
 * [Data, context and interaction](https://en.wikipedia.org/wiki/Data,_context_and_interaction) _...paradigm used in computer software to program systems of communicating objects_
+* [Why Service Objects are an Anti-Pattern](https://www.fullstackruby.dev/object-orientation/rails/2018/03/06/why-service-objects-are-an-anti-pattern#concerns-and-poros-are-your-friends)
+* [OOP vs. services for organizing business logic](https://fpsvogel.com/posts/2022/rails-service-objects-alternative-to-organize-business-logic)
 
 ## Software Design and Architecture
 * [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture)
@@ -57,6 +59,13 @@ Collection of personal bookmarks. Live document.
 * [Ruby Best Practices List](https://github.com/hexdevs/ruby-best-practices-list) _...List of well-written Ruby codebases and resources (github reop)_
 * [hanamimastery](https://hanamimastery.com)
 * [I am a puts debuggerer](https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html)
+* [To raise or not to raise exceptions, and the art of designing return values](https://www.alfredo.motta.name/to-raise-or-not-to-raise-exceptions/)
+* [Resilience in Ruby: Handling Failure](https://www.johnnunemaker.com/resilience-in-ruby/)
+* [The Error Model](https://joeduffyblog.com/2016/02/07/the-error-model)
+* [When to throw an exception?](https://stackoverflow.com/questions/77127/when-to-throw-an-exception)
+* [Ruby Conference 2007 Advanced Ruby Class Design by Jim Weirich](https://www.youtube.com/watch?v=vwBpTgdZBDk)
+* [RubyConf 2011 Writing Solid Ruby Code by Jim Weirich](https://www.youtube.com/watch?v=FR95rp-9Oo4)
+* [RubyConf 2009 - SOLID Ruby by: Jim Weirich]https://www.youtube.com/watch?v=dKRbsE061u4()
 
 ## Ruby on Rails
 
