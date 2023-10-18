@@ -65,7 +65,8 @@ Collection of personal bookmarks. Live document.
 * [When to throw an exception?](https://stackoverflow.com/questions/77127/when-to-throw-an-exception)
 * [Ruby Conference 2007 Advanced Ruby Class Design by Jim Weirich](https://www.youtube.com/watch?v=vwBpTgdZBDk)
 * [RubyConf 2011 Writing Solid Ruby Code by Jim Weirich](https://www.youtube.com/watch?v=FR95rp-9Oo4)
-* [RubyConf 2009 - SOLID Ruby by: Jim Weirich]https://www.youtube.com/watch?v=dKRbsE061u4()
+* [RubyConf 2009 - SOLID Ruby by: Jim Weirich](https://www.youtube.com/watch?v=dKRbsE061u4)
+* [Learn Sorbet in Y minutes](https://jdkaplan.dev/blog/learn-sorbet-in-y-minutes/) :gem:
 
 ## Ruby on Rails
 
