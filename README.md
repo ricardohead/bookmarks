@@ -38,6 +38,7 @@ Collection of personal bookmarks. Live document.
 * [git - ours & theirs](https://nitaym.github.io/ourstheirs/)
 * [Workarounds to Git worktree using bare repository](https://morgan.cugerone.com/blog/workarounds-to-git-worktree-using-bare-repository-and-cannot-fetch-remote-branches/)
 * [Sliced bread: git-worktree and bare repo](https://blog.cryptomilk.org/2023/02/10/sliced-bread-git-worktree-and-bare-repo/)
+* [Copy the secret files over to the directory of a new worktree using a post-checkout git-hook](https://smarak.dev/blog/git_worktree_hook/)
 
 ## Vim
 
