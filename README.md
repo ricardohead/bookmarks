@@ -1,12 +1,17 @@
 # Bookmarks
 Collection of personal bookmarks. Live document.
 
+## Dev craftsmanship
+
+* [The Basics: The foundation on which your advanced skills and expertise rest](https://registerspill.thorstenball.com/p/the-basics) :gem:
+
 ## Learn
 
 * [Spaced Repetition](https://www.executeprogram.com/spaced-repetition)
 * [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules)
 * [How to remember anything forever](https://ncase.me/remember/) :gem:
 * [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
+
 
 ## CS
 * [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
@@ -129,9 +134,7 @@ Collection of personal bookmarks. Live document.
 
 ## DevTools
 
-* [Denigma](https://denigma.app) _...Denigma explains code in understandable english_
 * [Regexr](https://regexr.com) _...Explain Regexp_
-* [Mintlify](https://www.mintlify.com) _...Mintlify generate documentation for you_
 
 ## Repos
 * [Scientist](https://github.com/github/scientist) _...A Ruby library for carefully refactoring critical paths_
