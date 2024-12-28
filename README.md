@@ -95,6 +95,10 @@ Collection of personal bookmarks. Live document.
 * [Rails 7: Stimulus JS Basics](https://jasonfleetwoodboldt.com/courses/rails-7-crash-course/rails-7-stimulus-js-basics-with-importmap-rails/)
 * [Turbo Rails Tutorial](https://www.hotrails.dev/turbo-rails)
 
+## SQLite
+* [What you need to know about ](https://joyofrails.com/articles/what-you-need-to-know-about-sqlite) :gem:
+* [https://highperformancesqlite.com/](https://highperformancesqlite.com/)
+* [Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
 
 ## Javascript
 
