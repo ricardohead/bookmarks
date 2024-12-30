@@ -99,6 +99,9 @@ Collection of personal bookmarks. Live document.
 * [What you need to know about ](https://joyofrails.com/articles/what-you-need-to-know-about-sqlite) :gem:
 * [https://highperformancesqlite.com/](https://highperformancesqlite.com/)
 * [Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
+* [RailsConf 2024 - SQLite on Rails: From rails new to 50k concurrent... by Stephen Margheim](https://www.youtube.com/watch?v=cPNeWdaJrL0) 
+:gem:
+* [Supercharge the One Person Framework with SQLite: Rails World 2024](https://fractaledmind.github.io/2024/10/16/sqlite-supercharges-rails/)
 
 ## Javascript
 
