@@ -139,6 +139,9 @@ Collection of personal bookmarks. Live document.
 
 * [Operating Systems: Three Easy Pieces - Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
+## C lang
+* Essential C (http://cslibrary.stanford.edu/101/)
+
 ## DevTools
 
 * [Regexr](https://regexr.com) _...Explain Regexp_
